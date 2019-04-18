@@ -1,6 +1,6 @@
 # ip-emoji-extension
 
-Based off of [IP address to emoji project](https://github.com/6connect/ip-address-emoji/).
+Based on the [IP address to emoji project](https://github.com/6connect/ip-address-emoji/).
 
 This is a simple browser extension that has two features:
 1. Converts IP addresses between emoji and standard format using a convenient text input and button.
