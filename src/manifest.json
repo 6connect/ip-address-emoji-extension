@@ -1,0 +1,24 @@
+{
+  "name": "IP address to Emoji",
+  "version": "1.0.4",
+  "description": "Encodes IP addresses as emoji, and parses them back to ip.",
+  "permissions": [
+    "storage",
+    "https://*/*",
+    "http://*/*",
+    "tabs"
+  ],
+  "browser_action": {
+      "default_title": "IP address to Emoji",
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+  },
+  "manifest_version": 2,
+
+  "applications": {
+    "gecko": {
+      "id": "ip-emoji@6connect.com",
+      "strict_min_version": "42.0"
+    }
+  }
+}
